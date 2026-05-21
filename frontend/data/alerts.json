@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A101",
+    "type": "weather",
+    "title": "Weather Disruption",
+    "description": "Shipment CP-1096 predicted to delay by 12 hours due to heavy rainfall on Kerala-Karnataka border route.",
+    "recommendation": "Reroute cargo through Mysore bypass road hub to avoid regional flooding.",
+    "priority": "MEDIUM",
+    "timestamp": "10 mins ago",
+    "shipmentId": "CP-1096"
+  },
+  {
+    "id": "A102",
+    "type": "delay",
+    "title": "Port Delay Warning",
+    "description": "Shipment CP-1093 delayed at Chennai Terminal for customs documentation processing.",
+    "recommendation": "Upload verified digitized airway bill via ChainPulse portal to auto-clear checkpoint.",
+    "priority": "HIGH",
+    "timestamp": "25 mins ago",
+    "shipmentId": "CP-1093"
+  },
+  {
+    "id": "A103",
+    "type": "inventory",
+    "title": "Critical Stock Shortage",
+    "description": "Bangalore Central Hub reports critical levels for Category-A electronic items (< 15% safety stock).",
+    "recommendation": "Initiate immediate stock transfer of 500 units from nearby Pune Surplus Warehouse.",
+    "priority": "HIGH",
+    "timestamp": "1 hour ago",
+    "shipmentId": "CP-1092"
+  },
+  {
+    "id": "A104",
+    "type": "congestion",
+    "title": "Traffic Congestion",
+    "description": "High traffic density detected on Mumbai-Pune expressway causing minor transit slowdown.",
+    "recommendation": "Maintain standard route. GPS tracking shows delay is within standard 2-hour buffer.",
+    "priority": "LOW",
+    "timestamp": "2 hours ago",
+    "shipmentId": "CP-1095"
+  }
+]

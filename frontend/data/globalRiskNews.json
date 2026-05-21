@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RISK-001",
+    "riskLevel": "HIGH",
+    "headline": "Red Sea shipping delays worsening due to geopolitical tensions",
+    "summary": "Ongoing geopolitical tensions in the Red Sea corridor continue to escalate, forcing major container lines to divert via the Cape of Good Hope. Transit times have increased by 10–14 days, driving freight costs to 18-month highs and creating cascading delays across European and Asian supply chains.",
+    "impacts": [
+      "medicine import delays across Europe and South Asia",
+      "rising fuel and freight costs by 22% week-over-week",
+      "critical inventory shortages in retail and healthcare sectors",
+      "container equipment shortages in Mediterranean ports"
+    ],
+    "affectedSectors": ["Healthcare", "Logistics", "Retail", "Automotive"],
+    "timestamp": "2 mins ago",
+    "region": "Middle East"
+  },
+  {
+    "id": "RISK-002",
+    "riskLevel": "HIGH",
+    "headline": "Kerala flooding disrupts southern India supply chains",
+    "summary": "Heavy monsoon rainfall has caused widespread flooding across Kerala, shutting down key highway corridors and suspending operations at Kochi Port. Emergency logistics protocols have been activated as water levels continue to rise in low-lying industrial zones.",
+    "impacts": [
+      "spice and tea export shipments halted indefinitely",
+      "pharmaceutical cold chain at risk of temperature excursion",
+      "port operations suspended until further notice",
+      "road connectivity to Bangalore logistics hub severely impacted"
+    ],
+    "affectedSectors": ["Agriculture", "Pharmaceuticals", "Exports", "Food & Beverage"],
+    "timestamp": "5 mins ago",
+    "region": "South Asia"
+  },
+  {
+    "id": "RISK-003",
+    "riskLevel": "MEDIUM",
+    "headline": "Singapore port congestion reaches critical 85% capacity",
+    "summary": "Container backlog at Singapore's PSA terminals has surged to 85% of operational capacity, causing average berthing delays of 3–5 days for vessels. Transshipment operations across Southeast Asia are facing significant schedule reliability degradation.",
+    "impacts": [
+      "transshipment delays across Southeast Asian routes",
+      "demurrage and detention charges increasing sharply",
+      "schedule reliability dropping below 40% for regional carriers",
+      "empty container repositioning delays affecting exporters"
+    ],
+    "affectedSectors": ["Shipping", "Manufacturing", "Electronics", "Retail"],
+    "timestamp": "8 mins ago",
+    "region": "Southeast Asia"
+  },
+  {
+    "id": "RISK-004",
+    "riskLevel": "MEDIUM",
+    "headline": "China export slowdown deepens for third consecutive month",
+    "summary": "Factory output across China's manufacturing hubs has slowed notably, with export volumes from Shanghai and Shenzhen ports declining 15% year-over-year. Raw material shortages and reduced global demand are compounding the contraction.",
+    "impacts": [
+      "raw material shortages for global manufacturing supply chains",
+      "extended lead times for consumer electronics and automotive parts",
+      "shipping container availability declining in key export regions",
+      "freight rate volatility increasing across Pacific trade lanes"
+    ],
+    "affectedSectors": ["Manufacturing", "Electronics", "Automotive", "Industrial"],
+    "timestamp": "12 mins ago",
+    "region": "East Asia"
+  },
+  {
+    "id": "RISK-005",
+    "riskLevel": "HIGH",
+    "headline": "Global fuel price spike threatens logistics operating margins",
+    "summary": "Brent crude has surged past $95 per barrel following OPEC+ production cuts, driving diesel and marine fuel costs to 18-month highs. Logistics carriers are imposing emergency fuel surcharges across ocean, air, and ground transport modes.",
+    "impacts": [
+      "ocean freight rates expected to rise 12–15% in Q3",
+      "last-mile delivery costs increasing across all markets",
+      "air cargo carriers adding 8–10% fuel surcharges",
+      "trucking companies facing margin compression"
+    ],
+    "affectedSectors": ["Logistics", "Aviation", "Retail", "Energy"],
+    "timestamp": "15 mins ago",
+    "region": "Global"
+  },
+  {
+    "id": "RISK-006",
+    "riskLevel": "LOW",
+    "headline": "US warehouse space shortage showing signs of easing",
+    "summary": "Industrial warehouse vacancy rates in key US markets are improving, with national vacancy rising to 4.2% from historic lows of 3.1%. Rental rate growth is moderating as new supply enters the market across major distribution hubs.",
+    "impacts": [
+      "gradual improvement in storage capacity availability",
+      "moderating warehousing costs expected in Q3–Q4",
+      "supply chain resilience slowly recovering post-pandemic",
+      "inventory holding capacity expanding in key logistics corridors"
+    ],
+    "affectedSectors": ["Real Estate", "Logistics", "E-commerce", "Retail"],
+    "timestamp": "20 mins ago",
+    "region": "North America"
+  },
+  {
+    "id": "RISK-007",
+    "riskLevel": "MEDIUM",
+    "headline": "Air cargo capacity crunch across major European hubs",
+    "summary": "Major European airports are reporting reduced cargo throughput due to air traffic control staffing shortages and increased passenger operations consuming belly-hold capacity. Frankfurt, Heathrow, and Schiphol are most affected.",
+    "impacts": [
+      "air freight rates rising 8% week-over-week",
+      "time-sensitive pharmaceutical shipments at risk of delay",
+      "e-commerce delivery windows extending by 2–3 days",
+      "perishable goods facing capacity allocation challenges"
+    ],
+    "affectedSectors": ["Aviation", "Pharmaceuticals", "E-commerce", "Food & Beverage"],
+    "timestamp": "25 mins ago",
+    "region": "Europe"
+  },
+  {
+    "id": "RISK-008",
+    "riskLevel": "HIGH",
+    "headline": "Monsoon-related logistics risks intensify across Indian subcontinent",
+    "summary": "The southwest monsoon has intensified dramatically, with multiple regions experiencing landslides, road closures, and railway disruptions. Supply chain velocity across the subcontinent is significantly reduced as freight corridors face mounting challenges.",
+    "impacts": [
+      "highway closures in 6 major transport corridors",
+      "rail freight delays averaging 8–12 hours across key routes",
+      "cold storage facilities at flood risk in coastal zones",
+      "just-in-time inventory strategies under severe pressure"
+    ],
+    "affectedSectors": ["Logistics", "Agriculture", "Food & Beverage", "Insurance"],
+    "timestamp": "30 mins ago",
+    "region": "South Asia"
+  }
+]
